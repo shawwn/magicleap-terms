@@ -1,0 +1,837 @@
+                               CREATOR AGREEMENT
+
+DATE OF LAST REVISION: MARCH 19, 2018
+
+   Welcome! Magic Leap is looking for innovative and engaged creators to
+   develop incredible content for our platform and help bring our vision of
+   mixed reality to life. To help those creators that are up for the
+   challenge, we’ve built the Magic Leap creator portal (the “portal” for
+   short) to serve as a home-base for tools, resources, updates, and the
+   collective wisdom of our creator community. This creator agreement
+   (“Agreement”) governs your use of the portal, and includes other important
+   terms regarding your relationship with Magic Leap and each party’s rights.
+   This includes an [7]Arbitration Agreement regarding binding arbitration of
+   disputes and a waiver of certain rights to jury trials and/or class
+   actions. If you accept this Agreement, you will be admitted into our
+   creator community (welcome!). If you don’t agree to the terms of this
+   Agreement, you may not access the portal.
+
+   Please note that this Agreement is binding on you personally - it doesn’t
+   cover your employer or company. Soon, we will have a way for companies to
+   join our creator community and will be rolling out a separate process for
+   submitting and publishing any applications you create to our application
+   store – stay tuned!
+
+  1. Creator Resources
+
+   Portal Access
+
+   You will need a Magic Leap ID to access the portal. Don’t allow anyone
+   else to access the portal using your Magic Leap ID. Remember that the
+   Magic Leap [8]Account Terms and Conditions apply to all uses of your Magic
+   Leap ID, including access to the portal. In addition, you represent and
+   warrant that you are at least 18 years old and that you have the right to
+   enter into this Agreement.
+
+   Portal Content
+
+   Once in the portal, you will have the ability to access and/or download:
+
+     * certain Magic Leap creator materials, such as software development
+       kits (“SDKs”), tools, documentation, learning resources, Example
+       Assets (as defined below), and other content (collectively, the “Magic
+       Leap Materials”); and
+     * certain third party software, tools, services, applications, or
+       content (collectively, “Third Party Materials,” and together with the
+       Magic Leap Materials, the “Portal Content”).
+
+   Subject to the terms of this Agreement, Magic Leap grants you a limited,
+   personal, revocable, non-exclusive, non-transferable, non-sublicensable
+   license during the term of the Agreement, under any intellectual property
+   rights Magic Leap and its licensors of the Third Party Materials
+   (“Licensors”) may have (as applicable), to use the Portal Content solely
+   for development and testing of software applications for use on or with,
+   and distribution through, Magic Leap’s Platform (“Applications”).
+   “Platform” means Magic Leap’s mixed reality technology platform, including
+   Magic Leap’s mixed reality hardware device(s) manufactured by or on behalf
+   of Magic Leap, Magic Leap’s operating systems and other on-Device
+   software, the portal, Portal Content, the Magic Leap application store,
+   our websites and software applications, and all other aspects of our mixed
+   reality ecosystem.
+
+   If we provide you with an update to any Portal Content, we may terminate
+   the above license for prior versions of that Portal Content, which means
+   you’ll have to immediately discontinue using those prior versions. Also,
+   if the update is accompanied by a separate license, the terms of that
+   license will apply; otherwise, the update will be subject to the terms of
+   this Agreement.
+
+   Example Assets
+
+   Magic Leap may provide you with example or template source code, projects
+   or content delivered within the “samples” or “templates” folder in the
+   install directory of a Magic Leap SDK, or expressly made available as a
+   “sample”, “tutorial”, “example” or “template” project (e.g., a Magic Kit
+   project) through the portal as a starting point in creating your own
+   Application pursuant to the terms below (“Example Assets”).
+
+     * Unrestricted Example Assets. The following applies to Example Assets
+       that are not Restricted Assets (as defined below) (“Unrestricted
+       Example Assets”). Provided that your changes or additions to
+       Unrestricted Example Assets are sufficiently substantial to create a
+       derivative Application (as determined in Magic Leap’s sole
+       discretion), Magic Leap hereby grants you the right to use, modify,
+       publish, and distribute those modified Unrestricted Example Assets as
+       part of your Application. You shall comply with all laws applicable to
+       the foregoing activities. We may provide certain Unrestricted Example
+       Assets that are subject to a Licensor Agreement (as defined below).
+       The rights in this section do not expand or modify your limited rights
+       to any Portal Content that are not Unrestricted Example Assets
+       (including, but not limited to, our SDK).
+     * Restricted Assets. The following applies only to Restricted Assets.
+       Certain Example Assets may be marked as “Restricted”, “Not For
+       Redistribution” or similar on the portal or in the materials
+       accompanying such assets (“Restricted Assets”). Restricted Assets are
+       licensed to you under separate license terms if such terms are
+       included in the materials accompanying the Restricted Assets
+       (“Restricted Asset Terms”). If separate license terms are not provided
+       with a Restricted Asset, then the terms of this Agreement with respect
+       to Portal Content will apply (including the scope of license in this
+       Section 1 and the restrictions in Section 2). In the event of a
+       conflict between the terms of this Agreement and the Restricted Asset
+       Terms, the Restricted Asset Terms will govern. No other use of the
+       Restricted Assets is licensed or permitted, and you may not otherwise
+       use, modify, adapt, alter, reproduce, distribute, sublicense, or
+       transfer Restricted Assets.
+
+   Third Party Materials
+
+   Your use of a Third Party Material may be subject to the Licensor’s own
+   license agreement, notices, restrictions, or other terms that the Licensor
+   provides you (“Licensor Agreement”). If your use of a Third Party Material
+   is not subject to a Licensor Agreement, then the terms of this Agreement
+   will apply. In the event of a conflict between the terms of this Agreement
+   and the terms of a Licensor Agreement, the terms of the Licensor Agreement
+   will govern. Magic Leap has no responsibility or liability with respect to
+   your access to or use of the Third Party Materials, or any specifications,
+   descriptions, or other materials our Licensors may provide with their
+   Third Party Materials. Notwithstanding the foregoing, to the extent that
+   any Third Party Materials consist of OSS (as defined below) and Magic Leap
+   received such OSS from a third party under an upstream license permitting
+   sublicensing, then Magic Leap hereby sublicenses such OSS to you under the
+   terms of this Agreement and not the applicable upstream license. Note that
+   Magic Leap may still provide you with the text of an upstream license
+   permitting sublicensing in accordance with the requirements of that
+   upstream license, but the associated third party OSS remains sublicensed
+   to you under this Agreement. As set forth in the Warranty Disclaimer
+   section of this Agreement, neither Magic Leap nor its licensors shall have
+   any liability for any Third Party Materials (or any specifications,
+   descriptions, or other materials our Licensors may provide with their
+   Third Party Materials) and they make no representation or warranty for any
+   Third Party Materials including, but not limited to, the warranties of
+   merchantability, fitness for a particular purpose, and non-infringement.
+   “OSS” means software distributed as “free software,” “open source
+   software” or under similar licensing or distribution terms. Information
+   and terms associated with Third Party Materials may be found in the
+   NOTICES file, a copy of which may accompany the Portal Content delivered
+   to you, and is incorporated by reference herein in its entirety. The
+   presence and usage of or compliance with Third Party Materials, including
+   any Licensor Agreements, is Confidential Information. If we mention our
+   Licensors or other third parties, or their products or services, in any
+   materials we provide you, it’s for informational purposes only and doesn’t
+   constitute our endorsement of those parties, products, or services.
+
+   The portal may also contain links or provide access to other web sites
+   operated by third parties. Those third party web sites are not under our
+   control, and we are not responsible for the content of any third party web
+   site or any link contained in a third party web site. We provide these
+   links only as a convenience and do not review, approve, monitor, endorse,
+   warrant, or make any representations with respect to third party web
+   sites.
+
+   Acceptable Use of Services
+
+   Magic Leap may also provide our creator community with certain services
+   through the portal, including any forums or support (our “Services”).
+   We’re not obligated to provide you with any Services, but we may decide to
+   do so anyway. If we do provide you with Services, they’re for your use
+   only, solely in connection with the use or exercise of your rights
+   pursuant to this Agreement.
+
+   You’ll be able to interact with others through our Services, including by
+   viewing content created by others. You are solely responsible for your
+   interactions with other people through our Services. You must abide by the
+   [9]“Community Guidelines” set forth below when using our Services \– they
+   are also a part of these terms.
+
+   In addition, you agree that you won’t:
+
+     * Use our Services in a way that negatively affects others or our
+       ability to provide the Services;
+     * Use our Services for any illegal or unauthorized purpose;
+     * Use any technology or other means not authorized by us to access our
+       Services or to extract data;
+     * Attempt to gain unauthorized access to any Magic Leap products or
+       services, including by trying to circumvent any content restrictions;
+     * Attempt to decipher, decompile, reverse engineer, disassemble,
+       reproduce, modify, copy, distribute, publicly perform, publicly
+       display or create derivative works of the Services or the source code
+       of the software used to provide the Services;
+     * Use our Services to create a competitive product or service, or for
+       benchmarking or vulnerability testing purposes, except as authorized
+       by Magic Leap in writing; or
+     * Infringe upon or violate the rights of Magic Leap, other people in our
+       community, or any third party.
+
+   By using our Services, you understand that Magic Leap does not endorse or
+   actively review the content posted or sent by others within our Services.
+   We will not be responsible for any liability incurred as the result of
+   your interactions with others or your use of content provided by other
+   people. Your use of any content provided by other people, and any
+   interactions with others, is at your own risk.
+
+   Pre-Release Materials
+
+   As part of the creator community, you may have the opportunity to receive
+   certain pre-release Magic Leap hardware or other materials at Magic Leap’s
+   option. Your use of any pre-release materials may be conditioned on your
+   acceptance of additional terms that we provide you and subject to
+   confidentiality obligations as set forth below. In the event of any
+   conflict between the terms provided for any pre-release materials and this
+   Agreement, the other terms will govern your use of the pre-release
+   materials.
+
+  2. Restrictions
+
+   You are not allowed to (directly or indirectly): (a) modify, adapt, alter,
+   or create any derivative works of the Portal Content, except as necessary
+   to develop Applications for our Platform as permitted herein; (b) provide
+   or transfer Portal Content to any third party without Magic Leap’s prior
+   written consent or as otherwise permitted herein; (c) work around,
+   interfere with, exceed or circumvent any technical limitations or software
+   protection measures in the portal, the Portal Content, or the Services,
+   including any system alerts, notices, indicators, consent screens, texts,
+   hyperlinks or other messaging intended to be provided to end users of any
+   Application; (d) reverse engineer, decompile, translate, disassemble, or
+   otherwise attempt to derive any source code of the Portal Content not
+   provided in source code format; (e) publish, rent, lease, distribute,
+   lend, sell, sublicense, or otherwise commercialize the Portal Content or
+   your access to the portal; (f) release or disclose the results of your
+   use, development, or evaluation of the Portal Content; (g) perform, or
+   release or disclose the results of, any benchmark testing or vulnerability
+   assessments of the Portal Content; (h) introduce into the portal or the
+   Portal Content, or include in or with any Application, any viruses, trojan
+   horses, malware, spyware, adware or other disruptive software, or any
+   software code, which is designed to disrupt, damage, or perform
+   unauthorized actions on a computer system; (i) remove or alter any
+   proprietary notices or labels on or in the portal or the Portal Content;
+   (j) use the portal or Portal Content to directly or indirectly develop any
+   product or service that competes with the Magic Leap Platform; or (k)
+   disclose any source code you may receive through the portal.
+
+   You also may not combine the portal, or any Portal Content with any OSS or
+   other materials under any “Excluded License.” An “Excluded License” is a
+   license that, as a condition of use, modification and/or distribution of
+   software subject to such license, would restrict the ability of Magic Leap
+   to protect its proprietary interests in the Portal Content, including
+   protecting its intellectual property rights therein, or (1) requires the
+   disclosure or distribution in source code form of any software subject to
+   the license or any software used, based on, or distributed in connection
+   with software subject to the license; (2) requires the licensing of any
+   software subject to the license or any software used, based on, or
+   distributed in connection with software subject to the license for the
+   purpose of making derivative works; (3) imposes any restriction on the
+   consideration to be charged for the distribution of any software subject
+   to the license or any software used, based on, or distributed in
+   connection with software subject to the license; or (4) creates, or
+   attempts to create, obligations for Magic Leap or any Licensor with
+   respect to any intellectual property rights or grant, or attempt to grant,
+   to any third party, any rights or immunities under any intellectual
+   property rights of Magic Leap or a Licensor. Examples of Excluded Licenses
+   include, but are not limited to, licenses incorporating copyleft
+   requirements, such as the GNU General Public License, GNU Lesser General
+   Public License, SleepyCat License, or Mozilla Public License.
+
+  3. Applications
+
+   We may publish certain application guidelines or content rulebooks in the
+   portal. You agree to develop any Applications in compliance with those
+   guidelines. Applications that are developed by you may only be distributed
+   through the application store provided by Magic Leap or via other
+   distribution methods developed by Magic Leap for our Platform and
+   generally offered to our creator community for such distribution.
+
+   Once we open our application submission process, Applications that comply
+   with this Agreement and any application guidelines issued by us may be
+   submitted to us for evaluation for distribution through our application
+   store or other permitted distribution methods. You acknowledge and agree
+   that prior to submission of any Application for such consideration, you
+   (or another authorized agent of the entity that you are working on behalf
+   of) must register as a publisher and agree to the terms of our
+   then-current, standard publisher registration agreement.
+
+  4. Confidentiality Obligations
+
+   Magic Leap IP and Other Information
+
+   You acknowledge that you may receive non-public information relating to
+   Magic Leap, its business, products, services, and related intellectual
+   property, including the Magic Leap IP (as defined below) (collectively,
+   “Confidential Information”) in connection with your use of pre-release
+   materials accessed through the portal. You agree to keep the Confidential
+   Information confidential, not to publish or disclose any Confidential
+   Information to a third party, and only use such information to the extent
+   necessary to exercise your rights under this Agreement. You will use at
+   least a reasonable standard of care in maintaining the confidentiality of
+   the Confidential Information. Your obligations with respect to
+   Confidential Information will continue even after you have stopped using
+   the portal. You agree to destroy or return any Confidential Information at
+   Magic Leap’s request.
+
+   Permitted Disclosures
+
+   Your confidentiality obligations won’t apply to any information that we
+   publicly disclose outside of the portal about our pre-release materials,
+   except that even after we make such disclosures, you still can’t post
+   screen shots of those materials outside of the portal or redistribute
+   those materials outside the portal except as permitted in this Agreement
+   or with our prior, express written approval in each instance.
+   Notwithstanding the above paragraphs, you may disclose Magic Leap’s
+   Confidential Information to the extent the disclosure is required by law
+   or by order of a court or governmental agency. However, in such event, you
+   will assist Magic Leap in obtaining a protective order or similar
+   protection to maintain the confidentiality of the Confidential Information
+   to the extent possible and legally permitted.
+
+   Remedies
+
+   You also acknowledge that if you breach this Confidentiality Obligations
+   section, it will cause immediate and irreparable injury to Magic Leap and
+   Magic Leap will have the right to seek and obtain injunctive relief, and
+   to pursue any other remedies available at law or in equity, without being
+   required to show any actual damage or irreparable harm, prove the
+   inadequacy of its legal remedies, or post any bond or other security.
+
+   Remedies
+
+   You also acknowledge that if you breach this Confidentiality Obligations
+   section, it will cause immediate and irreparable injury to Magic Leap and
+   Magic Leap will have the right to seek and obtain injunctive relief, and
+   to pursue any other remedies available at law or in equity, without being
+   required to show any actual damage or irreparable harm, prove the
+   inadequacy of its legal remedies, or post any bond or other security.
+
+  5. Feedback
+
+   You will have the option to provide us with feedback, suggestions,
+   comments, changes, enhancements, updates and modifications relating to the
+   portal, Portal Content or other existing Magic Leap products or services
+   in your discretion (collectively, “Feedback”). From time to time, Magic
+   Leap may request that you provide Feedback in a specified form, manner
+   and/or frequency, provided that all such Feedback will be at your
+   discretion. Without limiting the generality of the foregoing, you will use
+   commercially reasonable efforts to submit notice of any and all hardware
+   or software bugs, defects, or other issues with the features,
+   functionality, or performance of any Portal Content to Magic Leap promptly
+   upon occurrence. Any such notices will be deemed Feedback. You hereby
+   grant Magic Leap a non-exclusive, perpetual and irrevocable license to use
+   and exploit such Feedback for any purpose, including incorporating such
+   Feedback within its products and services, without providing payment or
+   any other consideration to you. Magic Leap has no confidentiality or other
+   obligations with respect to your Feedback.
+
+  6. Privacy
+
+   Your privacy is important to us. Our [10]Privacy Policy describes how we
+   collect, use and disclose information we collect about you. Our Privacy
+   Policy is part of this Agreement and you agree to our use and sharing of
+   the information we collect about you as described in our Privacy Policy.
+
+  7. Your Content
+
+   Your Content
+
+   The portal may include interactive features and areas where you can
+   create, upload, store, and/or share content (other than Applications) with
+   us or others (“Your Content”). Your Content is considered
+   non-confidential. Magic Leap does not obtain any ownership rights in Your
+   Content, but you grant Magic Leap a worldwide, irrevocable (except as set
+   forth below), perpetual, non-exclusive, transferable, fully paid,
+   royalty-free and fully sublicensable right to use, copy, display, store,
+   adapt, publicly perform and distribute Your Content so that Magic Leap can
+   operate, deliver, and improve the portal. The license granted to Magic
+   Leap for Your Content is revocable by you only if and when you choose to
+   independently remove or delete any of Your Content uploaded to the Portal,
+   to the extent that the Portal provides the functionality to do so.
+
+   You are solely responsible for Your Content. Magic Leap has no obligation
+   to review, reject, refuse to post, screen, edit, move or remove any
+   content from the portal, but may choose to do so at any time, in its
+   discretion. If Your Content violates this Agreement or our Community
+   Guidelines, we may remove it. For repeat or otherwise serious violations,
+   we may suspend or otherwise disable your access to the portal and
+   terminate this Agreement.
+
+   You represent and warrant that (a) you either control or own Your Content,
+   or you have obtained all rights necessary to share Your Content in
+   compliance with this Agreement; (b) Your Content, and our use of Your
+   Content as permitted under this Agreement, will not infringe,
+   misappropriate or violate any third party’s intellectual property rights,
+   rights of publicity or privacy, or result in the violation of any
+   applicable laws, rules, or regulations; and (c) Your Content does not
+   violate our Community Guidelines.
+
+  8. Copyright Complaints
+
+   In accordance with the Digital Millennium Copyright Act (“DMCA”) and other
+   applicable law, we have adopted a policy of terminating, in appropriate
+   circumstances, the accounts of users who repeatedly infringe the
+   intellectual property rights of others. If you believe that anything on
+   our Services infringes any copyright that you own or control, you may
+   notify our Designated Agent as follows:
+
+   Designated Agent: Anastasia Lang
+   Address: Magic Leap, Inc., Attn: DMCA Agent, 7500 W. Sunrise Boulevard,
+   Plantation, FL 33322
+   Telephone: 954-889-7010
+   E-Mail Address: copyright@magicleap.com
+
+   Please see [11]17 U.S.C. §512(c)(3) for the requirements of a proper
+   notification. Also, please note that if you knowingly misrepresent that
+   any activity or material on our Services is infringing, you may be liable
+   to Magic Leap for certain costs and damages.
+
+  9. Intellectual Property Rights
+
+   Your Ownership
+
+   Unless otherwise specified in a separate agreement with Magic Leap, you
+   retain, and will own, all rights (including intellectual property rights),
+   title, and interest in and to each Application, (excluding any Magic Leap
+   IP incorporated in or necessary to use such Application), and Your
+   Content.
+
+   Magic Leap Ownership
+
+   Except for the limited rights granted under this Agreement, Magic Leap and
+   its Licensors retain, and will own, all rights (including intellectual
+   property rights), title, and interest in and to the portal, Portal
+   Content, and Feedback (collectively, the “Magic Leap IP”). You must abide
+   by all copyright notices, information, or restrictions contained in or
+   attached to the portal and/or the Portal Content.
+
+   No Implied Licenses
+
+   You may not use the Magic Leap IP except as expressly permitted under this
+   Agreement. Furthermore, except as expressly set forth in this Agreement,
+   nothing in this Agreement will be deemed to grant, by implication,
+   estoppel or otherwise, a license to the Magic Leap IP.
+
+   Use of Trademarks
+
+   The portal may display names, trademarks, trade names, service marks or
+   logos (“Marks”) that belong to Magic Leap or other entities.
+
+   Magic Leap may enter into a separate agreement with you that allows you to
+   use certain Magic Leap Marks in connection with the promotion of your
+   Application, subject to any trademark guidelines that we may publish in
+   the portal.
+
+   Except as expressly stated above, you’re not allowed to use any Marks.
+   Ownership of all the Marks and the goodwill associated with the Marks
+   remains with us or those other entities.
+
+   Independent Development
+
+   Nothing in this Agreement prevents Magic Leap or other creators who may
+   have relationships with Magic Leap from developing or having developed
+   products, content, software, concepts, systems or techniques that are
+   similar to or compete with Applications, or other products, content,
+   software, concepts, systems or techniques that you may develop pursuant to
+   this Agreement. You acknowledge that multiple products may be in
+   simultaneous development for Magic Leap’s Platform at any time. In
+   addition, nothing in this Agreement prevents you from developing or having
+   developed products, content, software, concepts, systems or techniques for
+   use on other platforms that may be similar to or compete with products,
+   content, software, concepts, systems or techniques of Magic Leap, provided
+   that your use of the Portal Content is in compliance with this Agreement.
+
+  10. Termination
+
+   We reserve the right to monitor your use of the portal to make sure you’re
+   complying with this Agreement. We really want you to use the portal to
+   develop cool stuff for our Platform. However, we may suspend or disable
+   your access to the portal and and/or terminate this Agreement if we think
+   you’re violating this Agreement or any other Magic Leap guidelines or
+   policies, if you share your Magic Leap ID with anyone or otherwise violate
+   the Account Terms and Conditions, or if you violate any laws, rules, or
+   regulations.
+
+   You will have the right to terminate this Agreement at any time for any
+   reason.
+
+   If this Agreement is terminated for any reason, your access to the portal
+   and your license to the Portal Content will immediately terminate.
+   However, even if this Agreement is terminated, (a) Magic Leap may continue
+   to use Your Content and Feedback in accordance with this Agreement, and
+   (b) the Restrictions, Confidentiality Obligations, Your Content and DMCA
+   Notices, Intellectual Property Rights, Warranty Disclaimer and Limits on
+   Liability, Indemnification, General Provisions, and Arbitration Agreement
+   sections of this Agreement will survive any such termination and continue
+   to apply.
+
+  11. Warranty Disclaimer and Limits on Liability
+
+   The following paragraphs limit our liability to you and also limit your
+   legal remedies. They are important and contain some lawyerly words, but we
+   have to include them to provide you access to the portal and Portal
+   Content.
+
+   A. YOU UNDERSTAND AND AGREE THAT TO THE EXTENT PERMITTED BY APPLICABLE
+   LAW, WE ARE PROVIDING THE PORTAL AND MAGIC LEAP MATERIALS ON AN “AS-IS”
+   BASIS, AND YOU USE THEM AT YOUR OWN RISK. MAGIC LEAP AND ITS LICENSORS (AS
+   APPLICABLE) DISCLAIM ALL WARRANTIES WITH RESPECT TO THE PORTAL, THE PORTAL
+   CONTENT, AND OTHER MAGIC LEAP IP, WHETHER EXPRESS OR IMPLIED, OR
+   STATUTORY, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OF
+   NON-INFRINGEMENT OF THIRD PARTY RIGHTS, MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE, QUIET ENJOYMENT, NON-INTERFERENCE, SYSTEM INTEGRATION,
+   OR ACCURACY. NEITHER MAGIC LEAP NOR ITS LICENSORS (AS APPLICABLE) WARRANT
+   THAT YOUR USE OF THE PORTAL CONTENT OR ANY MAGIC LEAP IP OR RELATED
+   PRODUCT OR SERVICE WILL BE UNINTERRUPTED ERROR-FREE, VIRUS-FREE, OR
+   SECURE. MAGIC LEAP ALSO MAKES NO REPRESENTATIONS OR WARRANTIES ON BEHALF
+   OF ANY OF ITS LICENSORS. THE FEATURES AND FUNCTIONALITY OF OUR SERVICES,
+   PRODUCTS OR DEVICES MAY CHANGE AT ANY TIME AND MAGIC LEAP DISCLAIMS ANY
+   RESPONSIBILITY FOR SUCH CHANGES OR ANY STATEMENTS MAGIC LEAP MAKES OR HAS
+   MADE ABOUT THE EXISTENCE OF SUCH FEATURES OR FUNCTIONALITY. YOU SHOULD NOT
+   RELY ON ANY PARTICULAR FUNCTIONALITY BEING INCLUDED IN THE FINAL OR
+   COMMERCIAL VERSION OF ANY MAGIC LEAP PRODUCTS.
+
+   B. IN NO EVENT SHALL MAGIC LEAP OR ITS LICENSORS BE LIABLE FOR ANY
+   INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING
+   OUT OF OR IN CONNECTION WITH THE PORTAL OR MAGIC LEAP IP OR THIS
+   AGREEMENT, WHETHER OR NOT WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH
+   DAMAGES. MAGIC LEAP’S TOTAL CUMULATIVE LIABILITY IN CONNECTION WITH THIS
+   AGREEMENT, THE PORTAL, OR THE MAGIC LEAP MATERIALS, WHETHER IN CONTRACT,
+   TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, SHALL NOT EXCEED ONE HUNDRED
+   DOLLARS ($100).
+
+   C. THE FOREGOING LIMITATIONS OF LIABILITY APPLY TO THE FULLEST EXTENT
+   ALLOWED BY LAW. THE LIMITATIONS OF DAMAGES SET FORTH ABOVE ARE FUNDAMENTAL
+   ELEMENTS OF THE BASIS OF THE BARGAIN BETWEEN YOU AND MAGIC LEAP. THE
+   FOREGOING CAP ON LIABILITY WILL NOT APPLY TO LIABILITY OF MAGIC LEAP FOR
+   (A) DEATH OR PERSONAL INJURY CAUSED BY MAGIC LEAP’S GROSS NEGLIGENCE IN
+   CONNECTION WITH THE SERVICES; OR FOR (B) ANY DAMAGES CAUSED BY MAGIC
+   LEAP'S FRAUD OR FRAUDULENT MISREPRESENTATION, INTENTIONAL MISCONDUCT OR
+   GROSS NEGLIGENCE.
+
+   D. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES,
+   REPRESENTATIONS OR CONDITIONS, THE LIMITATION OR EXCLUSION OF IMPLIED
+   WARRANTIES, LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY MAY LAST, OR
+   EXCLUSIONS OR LIMTATIONS FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, SO SOME
+   OF THE ABOVE LIMITATIONS MAY NOT APPLY IN FULL TO YOU, AND MAGIC LEAP’S
+   LIABILITY SHALL BE LIMITED TO THE EXTENT SUCH LIMITATIONS ARE PERMITTED BY
+   LAW.
+
+  12. Indemnification
+
+   You agree to indemnify, hold harmless and, at our option, defend Magic
+   Leap (including our affiliates, officers, directors, employees,
+   stockholders, agents, Licensors, suppliers and any third-party information
+   providers) from and against all damages and expenses we may incur as a
+   result of your use of the portal (including any Portal Content), your or
+   our use of Your Content, or your violation of this Agreement.
+
+  13. General Provisions
+
+   Changes
+
+   We may change or modify this Agreement (including our “Community
+   Guidelines”) at any time. If we do, we’ll make sure to notify you, by
+   sending, for example, a notification to your Magic Leap ID and/or giving
+   notice through the portal. Unless we say otherwise in our notice, the
+   revised terms will be effective immediately and your continued use of the
+   portal and/or Portal Content after we provide notice of the changes will
+   constitute your acceptance of any changes to this Agreement. If you don’t
+   agree to any changes to this Agreement, you must stop using the portal and
+   the Portal Content (though we’ll be sorry to see you go). Please review
+   this Agreement from time to time – it’s important you understand the terms
+   and conditions that apply to your use of the portal and the Portal
+   Content.
+
+   We also reserve the right, at any time, to modify, suspend, or discontinue
+   the portal, the Portal Content, or any part thereof. We’ll try to notify
+   you when we do, but we may not always. You agree that we won’t be liable
+   to you or to any third party for any modification, suspension, or
+   discontinuance of the portal, Portal Content, or any component thereof.
+
+   Your Relationship with Magic Leap
+
+   You and Magic Leap are independent contractors, and nothing in this
+   Agreement will be construed as creating a partnership, joint venture,
+   employee, or agency relationship between you and Magic Leap.
+
+   Governing Law and Venue
+
+   This Agreement and the relationship between you and Magic Leap will be
+   governed by the laws of the State of California, without giving effect to
+   any choice of laws principles that would require the application of the
+   laws of a different country or state. To the extent the parties are
+   permitted under this Agreement to initiate litigation in a court, both of
+   us agree that all claims and disputes arising out of or relating to this
+   Agreement will be litigated exclusively in the state or federal courts
+   located in Santa Clara County, California.
+
+   Compliance
+
+   You agree you will comply with all applicable laws in connection with your
+   access to and use of the portal and Magic Leap IP. You may not use,
+   export, import, or transfer the Magic Leap IP, or any component of the
+   Magic Leap IP, except as authorized by U.S. law, the laws of the
+   jurisdiction in which you obtained the Magic Leap IP, and any other
+   applicable laws. You shall comply with all applicable laws and regulations
+   (including U.S. sanctions or export controls laws) and shall not, without
+   prior government authorization, export, re-export, or transfer the Magic
+   Leap IP or any other Magic Leap products, services or technology, either
+   directly or indirectly, in violation of such laws and regulations
+   (including to any sanctioned or restricted entities). Further, you
+   represent and warrant that you are not located in a country that is
+   subject to U.S. Government sanctions or that has been designated by the
+   U.S. Government as a “terrorist supporting” country and that you have not
+   been identified as a “Specially Designated National” by the Office of
+   Foreign Assets Control, has not been placed on the U.S. Commerce
+   Department’s Denied Persons List, and has not been listed on any other
+   U.S. Government or other applicable sanctioned party lists.
+
+   Communications
+
+   By accepting this Agreement, you (a) consent to receive electronic
+   communications from us, whether via email or posting on the portal or
+   other reasonable means; and (b) agree that this Agreement and any related
+   notices, disclosures, and other communications that we provide to you
+   electronically satisfy any legal requirement that such communications must
+   be in writing.
+
+   General Provisions
+
+   This Agreement is personal to you, and you may not assign or delegate your
+   rights and/or duties under this Agreement to anyone else and any attempted
+   assignment or delegation is void. You acknowledge that we have the right
+   to seek an injunction, if necessary, to stop or prevent a breach of your
+   obligations under this Agreement. Any delay or failure by us to exercise
+   or enforce any right or provision of this Agreement will not constitute a
+   waiver of such right or provision. No waiver by us will have effect unless
+   such waiver is in writing, and signed by us. No waiver of any breach or
+   default in one instance will constitute a waiver of any subsequent breach
+   or default. If for any reason a court of competent jurisdiction finds any
+   provision of this Agreement to be unenforceable, the provision of this
+   Agreement will be enforced to the maximum extent permissible so as to
+   effect the intent of the parties, and the remainder of this Agreement will
+   continue in full force and effect. This Agreement (along with any other
+   agreements, guidelines or documents referenced herein) constitutes the
+   entire agreement between us with regard to the matters described in this
+   Agreement. For the avoidance of doubt, if you previously entered into any
+   agreement with Magic Leap relating to your early access to any Magic Leap
+   products, services, or other materials and there’s a conflict between the
+   terms of that agreement and the terms of this Agreement, then the terms of
+   this Agreement will govern. The parties have expressly agreed that this
+   Agreement and all ancillary agreements, documents or notices relating
+   thereto be drafted solely in the English language. Les parties aux
+   présentes ont expressément convenu que ce accord et toute autre
+   convention, document ou avis y afférent soient rédigés en anglais
+   seulement.
+
+  14. Community Guidelines
+
+   We expect everybody here to act like a grown up. (We know you have it in
+   you!)
+
+     * Don’t say offensive things. We want you to be creative and work
+       together. But distribution of any offensive or obscene things (like
+       pornography, hateful materials, or profane language) will not be
+       tolerated. Let’s keep it PG-13, ok?
+     * No bullies allowed. Don’t post or say anything that could be
+       considered threatening or harmful to another person or group of
+       people, or to someone else’s property. Anything harassing, libelous,
+       defamatory, or that could be considered bullying is not OK. We mean
+       it.
+     * No spamming. Don’t send unsolicited messages to people you don’t know
+       (that is, people you don’t have a business or personal relationship
+       with). And don’t use our services to collect responses to your spam.
+       It’s not OK to contact others for commercial purposes without their
+       consent, or to use our services for your own self-promotion.
+     * Respect everybody’s IP. Respect everyone’s copyrights, trademarks and
+       other legal rights. That means don’t post or use anything that doesn’t
+       belong to you (or that you don’t have the right to post or use). If
+       you think someone has infringed on your intellectual property rights –
+       let us know.
+     * Respect everyone’s privacy. Don’t collect, store or use any info about
+       other people (like their names, email addresses or business
+       affiliations) without their permission.
+     * Don’t pretend to be someone else. We like you for you. It’s not cool
+       to impersonate anyone or give us false info about yourself. Also,
+       please don’t pretend to be affiliated with a company or brand unless
+       you actually have permission.
+     * The law still applies. Last time we checked, we all live on plant
+       Earth and are subject to the laws of our lands. Put another way, based
+       on where you live, certain laws, rules and government regulations
+       might apply to you when you use our services or generally interact
+       online. Don’t break the law.
+     * If you see something, say something. If you find out that anyone is
+       violating these Community Guidelines, please let us know. We’re all in
+       this together. If we become aware of possible violations, we reserve
+       the right to investigate them.
+     * As always, we’re here for your questions. Feel free to reach out any
+       time. Really. We want this wonderful world we’re creating together to
+       be a great place for everyone and welcome your questions. Everyone at
+       Magic Leap is sending you good vibes as you learn, build and create
+       with Magic Leap, or wherever your trails take you.
+
+  15. Agreement to Arbitrate and Waiver of Class Action
+
+   Please carefully read the following arbitration agreement (“Arbitration
+   Agreement”). It requires you to arbitrate disputes with Magic Leap and
+   limits the manner in which you can seek relief from us. It prevents you
+   from bringing any class, collective, or representative action against
+   Magic Leap, it prevents you from participating in or recovering any relief
+   in any class, collective, or representative action anyone else might bring
+   against Magic Leap, and it prevents you from suing Magic Leap in court or
+   from having a jury trial.
+
+   Whether to agree to arbitration is an important decision. It is your
+   decision to make and you shouldn’t rely only on the information in this
+   Arbitration Agreement, because it is not intended to explain the pros and
+   cons of arbitration. You should conduct your own research and ask others
+   about the consequences of this decision, and you can opt out of this
+   Arbitration Agreement if you want to, by following the instructions below.
+
+   Applicability of Arbitration Agreement
+
+   You agree that any dispute or claim relating in any way to this Agreement,
+   including this Arbitration Agreement, or to your access to or use of the
+   Services or this Agreement (“Disputes”) will be resolved by binding
+   arbitration, rather than in court. Notwithstanding the foregoing sentence,
+   (a) you may assert claims in small claims court if your claims qualify, so
+   long as the matter remains in such court and advances only on an
+   individual (non-class, non-representative) basis; and (b) you or Magic
+   Leap may seek equitable relief in court for infringement or other misuse
+   of intellectual property rights (such as trademarks, trade dress, domain
+   names, trade secrets, copyrights, and patents). This Arbitration Agreement
+   shall apply, without limitation, to all Disputes that arose or were
+   asserted before this Agreement or any prior version of this Agreement was
+   in effect, as well as to all Disputes arising thereafter.
+
+   *WAIVER OF CLASS RELIEF.* WHETHER THE DISPUTE IS HEARD IN ARBITRATION OR
+   IN COURT, YOU AGREE THAT YOU AND MAGIC LEAP WILL NOT COMMENCE AGAINST THE
+   OTHER, OR PARTICIPATE IN, A CLASS ACTION, CLASS ARBITRATION OR OTHER
+   REPRESENTATIVE ACTION OR PROCEEDING. YOU AND MAGIC LEAP ARE EACH WAIVING
+   RESPECTIVE RIGHTS TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION.
+
+   Arbitration Rules and Forum The Federal Arbitration Act governs the
+   interpretation and enforcement of this Arbitration Agreement. To begin an
+   arbitration proceeding, you must send a letter requesting arbitration and
+   describing your claim to our registered agent, Paracorp Incorporated, 2804
+   Gateway Oaks Drive #200, Sacramento, CA 95833-3509. The arbitration will
+   be conducted by JAMS, an established alternative dispute resolution
+   provider. Disputes involving claims and counterclaims under $250,000, not
+   inclusive of attorneys’ fees and interest, shall be subject to JAMS’s most
+   current version of the Streamlined Arbitration Rules and procedures
+   available [12]here; all other claims shall be subject to JAMS’s most
+   current version of the Comprehensive Arbitration Rules and Procedures,
+   available [13]here. JAMS’s rules are also available [14]here or by calling
+   JAMS at 800-352-5267. If JAMS is not available to arbitrate, the parties
+   will jointly select an alternative arbitral forum. If the arbitrator finds
+   that you cannot afford to pay JAMS’s filing, administrative, hearing
+   and/or other fees and cannot obtain a waiver from JAMS, Magic Leap will
+   pay them for you. In addition, Magic Leap will reimburse all such JAMS’s
+   filing, administrative, hearing and/or other fees for claims totaling less
+   than $10,000 unless the arbitrator determines the claims are frivolous.
+   Likewise, Magic Leap will not seek attorneys’ fees and costs in
+   arbitration unless the arbitrator determines the claims are frivolous. You
+   may choose to have the arbitration conducted by telephone, based on
+   written submissions, or in-person in the country where you live or at
+   another mutually agreed location. Any final decision made by the
+   arbitrator may be entered in any court of competent jurisdiction.
+
+   Authority of Arbitrator
+
+   The arbitrator, and not any federal, state or local court or agency, shall
+   have exclusive authority to resolve any dispute related to the
+   interpretation, applicability, enforceability or formation of this
+   Agreement, including this Arbitration Agreement including, but not limited
+   to any claim that all or any part of this Agreement or this Arbitration
+   Agreement are void or voidable. The arbitrator will decide the rights and
+   liabilities, if any, of you and Magic Leap. The arbitration proceeding
+   will not be consolidated with any other matters or joined with any other
+   cases or parties. The arbitrator shall have the authority to grant motions
+   dispositive of all or part of any claim. The arbitrator shall have the
+   authority to award monetary damages and to grant any non-monetary remedy
+   or relief available to an individual under applicable law, the arbitral
+   forum’s rules, and this Agreement (including the Arbitration Agreement).
+   The arbitrator shall issue a written award and statement of decision
+   describing the essential findings and conclusions on which the award is
+   based, including the calculation of any damages awarded. The arbitrator
+   has the same authority to award relief on an individual basis that a judge
+   in a court of law would have. The award of the arbitrator is final and
+   binding upon you and us.
+
+   Waiver of Jury Trial
+
+   YOU AND MAGIC LEAP HEREBY WAIVE ANY CONSTITUTIONAL AND STATUTORY RIGHTS TO
+   SUE IN COURT AND HAVE A TRIAL IN FRONT OF A JUDGE OR A JURY. You and Magic
+   Leap are instead electing that all claims and disputes shall be resolved
+   by arbitration under this Arbitration Agreement, except as specified
+   above. An arbitrator can award on an individual basis the same damages and
+   relief as a court and must follow this Agreement as a court would.
+   However, there is no judge or jury in arbitration, and court review of an
+   arbitration award is subject to very limited review.
+
+   Waiver of Class or Consolidated Actions
+
+   ALL CLAIMS AND DISPUTES WITHIN THE SCOPE OF THIS ARBITRATION AGREEMENT
+   MUST BE ARBITRATED ON AN INDIVIDUAL BASIS AND NOT ON A CLASS BASIS, ONLY
+   INDIVIDUAL RELIEF IS AVAILABLE, AND CLAIMS OF MORE THAN ONE PERSON CANNOT
+   BE ARBITRATED OR CONSOLIDATED WITH THOSE OF ANY OTHER PERSON. In the event
+   that this subparagraph is deemed invalid or unenforceable, neither you nor
+   Magic Leap is entitled to arbitration and instead claims and disputes
+   shall be resolved in a court as set forth in this section.
+
+   Right to Opt Out
+
+   You have the right to opt out of the provisions of this Arbitration
+   Agreement by sending written notice of your decision to opt out to the
+   following address: Magic Leap, Inc., Attn: General Counsel, 7500 W.
+   Sunrise Blvd, Plantation, FL 33322, and/or arbitration@magicleap.com,
+   within 30 days after first becoming subject to this Arbitration Agreement.
+   Your notice must include your name and address, your Magic Leap ID, and an
+   unequivocal statement that you want to opt out of this Arbitration
+   Agreement. If you opt out of this Arbitration Agreement, all other parts
+   of this Agreement will continue to apply to you. Opting out of this
+   Arbitration Agreement has no effect on your agreement to the rest of this
+   Agreement or your agreement to any other arbitration agreements that you
+   may currently have, or may enter in the future, with us.
+
+   Severability
+
+   If any part or parts of this Arbitration Agreement are found under the law
+   to be invalid or unenforceable, then such specific part or parts shall be
+   of no force and effect and shall be severed and the remainder of the
+   Arbitration Agreement shall continue in full force and effect.
+
+   Survival of Agreement
+
+   This Arbitration Agreement will survive the termination of your
+   relationship with Magic Leap.
+
+   Modification
+
+   Notwithstanding any provision in this Agreement to the contrary, we agree
+   that if we make any future material change to this Arbitration Agreement,
+   it will not apply to any individual claim(s) that you had already provided
+   notice of to Magic Leap.
+
+   Having trouble signing in?
+
+    [15]Contact Us
+   Copyright © 2018 Magic Leap, Inc.
+   Made within Florida
+   [16]Privacy Policy[17]Terms of Use
